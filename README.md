@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+# 🌍 Far Away – Travel List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and intuitive **React.js application** that helps users create and manage a travel packing checklist.  
+Built to practice and demonstrate core React concepts like **state management**, **lifting state up**, and **component-driven design**.
 
-## Available Scripts
+🔗 **Live Demo**: [far-away-travellist.netlify.app](https://far-away-travellist.netlify.app)
 
-In the project directory, you can run:
+📁 **Repository**: [github.com/Sudarshanhingalje/reactj.s-far-away](https://github.com/Sudarshanhingalje/reactj.s-far-away)
 
-### `npm start`
+![Screenshot 2025-06-10 224926](https://github.com/user-attachments/assets/c6eabd6e-777c-452b-af1d-b25256a971c1)
+![Screenshot 2025-06-10 225014](https://github.com/user-attachments/assets/c0231672-528a-40b4-9995-736a9505248b)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Features
 
-### `npm test`
+- ✅ Add, remove, and mark travel items as packed
+- ✅ View total items and percentage packed
+- ✅ Reusable, clean UI components
+- ✅ Real-time UI updates using React state
+- ✅ Sorting logic for better usability
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React.js** (with functional components & hooks)
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **Netlify** for deployment
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📚 What I Learned
 
-### `npm run eject`
+This project helped strengthen my understanding of:
+- 🔹 State Management in React
+- 🔹 Lifting State Up between components
+- 🔹 Prop Drilling and controlled components
+- 🔹 Component architecture and folder structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠️ Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Prerequisites
+- Node.js (v14 or above)
+- npm
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sudarshanhingalje/reactj.s-far-away.git
+Navigate to the project folder:
 
-## Learn More
+bash
+Copy
+Edit
+cd reactj.s-far-away
+Install dependencies:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+bash
+Copy
+Edit
+npm install
+Start the development server:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+bash
+Copy
+Edit
+npm start
+The app will be available at http://localhost:3000
 
-### Code Splitting
+📦 Deployment
+This app is deployed using Netlify. You can view it here:
+👉 https://far-away-travellist.netlify.app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+🙋‍♂️ About Me
+I'm Sudarshan Kalgonda Hingalje, a passionate developer exploring the world of web technologies and open to exciting opportunities in React.js and Front-End Development.
 
-### Analyzing the Bundle Size
+📧 sudarshanhingalje1@gmail.com
+🔗 LinkedIn Profile
+📂 Portfolio (if available)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ Support & Feedback
+If you find this project useful or have suggestions, feel free to ⭐ star the repo or open an issue!
